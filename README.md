@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋, this is Reverier Xu from Xidian University, China.
 
-<!--
-**Reverier-Xu/Reverier-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- What do i do: CTF && Desktop developing && fullstack web developing && a bit of DevOps
+- What am i learning: I’m currently learning Cyberspace Security as an undergraduate major in Xidian University.
+- How to reach me: plz send mail to [reverier.xu@outlook.com](mailto:reverier.xu@outlook.com).
 
-Here are some ideas to get you started:
+Working Environment:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                   -`                    reverier@Reverier-Arch 
+                  .o+`                   ---------------------- 
+                 `ooo/                   OS: Arch Linux x86_64 
+                `+oooo:                  Kernel: 5.11.5-arch1-1 
+               `+oooooo:                 Shell: Fish 3.1.2
+               -+oooooo+:                DE: Plasma 5.21.2 
+             `/:-:++oooo+:               WM: KWin 
+            `/++++/+++++++:              
+           `/++++++++++++++:             
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/   
+ .`                                 `/   
+```
