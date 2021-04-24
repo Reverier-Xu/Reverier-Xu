@@ -4,7 +4,7 @@
 - What do i do: CTF && Desktop developing && fullstack web developing && a bit of DevOps.
 - What am i learning: I’m currently learning Cyberspace Security as an undergraduate major in Xidian University.
 
-- Organizations: a common member in [XDSEC](https://xdsec.org/) / [L-team](https://l-team.org/)
+- Organizations: a common member of [XDSEC](https://xdsec.org/) / [L-team](https://l-team.org/)
 
 - How to reach me: plz send mail to [reverier.xu@outlook.com](mailto:reverier.xu@outlook.com).
 
