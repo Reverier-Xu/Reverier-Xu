@@ -7,7 +7,10 @@
 
 - Organizations: a common member of [XDSEC](https://xdsec.org/) / [L-team](https://l-team.org/), the responsible person in 2021.4-2022.4 .
 
-- How to reach me: plz send mail to [reverier.xu@outlook.com](mailto:reverier.xu@outlook.com).
+- How to reach me: 
+  - personal mail: [reverier.xu@outlook.com](mailto:reverier.xu@outlook.com).
+  - org mail: [reverier.xu@xdsec.club](mailto:reverier.xu@xdsec.club).
+  - tg: [@ Reverier Xu](https://t.me/reverier)
 
 Working Environment:
 
