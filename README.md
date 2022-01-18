@@ -18,7 +18,7 @@ Working Environment:
                    -`                        reverier@Reverier-Arch 
                   .o+`                       ---------------------- 
                  `ooo/                       OS: Arch Linux x86_64 
-                `+oooo:                      Kernel: 5.10.x-lts
+                `+oooo:                      Kernel: 5.16.1-arch1
                `+oooooo:                     Shell: Fish 3.x
                -+oooooo+:                    DE: Plasma 5.x
              `/:-:++oooo+:                   WM: KWin 
