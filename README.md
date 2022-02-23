@@ -5,7 +5,7 @@
 - What am i learning: I’m currently learning Cyberspace Security as an undergraduate major in Xidian University.
 - Blog: [Reverier's Blog](https://www.wootec.top/)
 
-- Organizations: a common member of [XDSEC](https://xdsec.org/) / [L-team](https://l.xdsec.org/), the responsible person in 2021.4-2022.4 .
+- Organizations: a member of [XDSEC](https://xdsec.org/) / [L-team](https://l.xdsec.org/), the responsible person in 2021.4-2022.4 .
 
 - How to reach me: 
   - personal mail: [reverier.xu@outlook.com](mailto:reverier.xu@outlook.com).
@@ -18,7 +18,7 @@ Working Environment:
                    -`                        reverier@Reverier-Arch 
                   .o+`                       ---------------------- 
                  `ooo/                       OS: Arch Linux x86_64 
-                `+oooo:                      Kernel: 5.16.1-arch1
+                `+oooo:                      Kernel: 5.x.x-arch1
                `+oooooo:                     Shell: Fish 3.x
                -+oooooo+:                    DE: Plasma 5.x
              `/:-:++oooo+:                   WM: KWin 
