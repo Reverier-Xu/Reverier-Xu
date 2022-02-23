@@ -5,7 +5,7 @@
 - What am i learning: I’m currently learning Cyberspace Security as an undergraduate major in Xidian University.
 - Blog: [Reverier's Blog](https://www.wootec.top/)
 
-- Organizations: a member of [XDSEC](https://xdsec.org/) (@XDSEC) / [L-team](https://l.xdsec.org/), the responsible person in 2021.4-2022.4 .
+- Organizations: a member of [XDSEC](https://xdsec.org/) ([**@XDSEC**](https://github.com/XDSEC)) / [L-team](https://l.xdsec.org/), the responsible person in 2021.4-2022.4 .
 
 - How to reach me: 
   - personal mail: [reverier.xu@outlook.com](mailto:reverier.xu@outlook.com).
