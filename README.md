@@ -5,7 +5,7 @@
 - Blog: [Reverier's Blog](https://blog.woooo.tech/)
 - Ops website: [XIDIAN CTF Archive](https://ctf.xidian.edu.cn/), [XIDIAN Forensics](https://forensics.xidian.edu.cn/), [XDSEC](https://www.xdsec.org/)
 
-- Organizations: a member of [XDSEC](https://xdsec.org/) ([**@XDSEC**](https://github.com/XDSEC)) / [L-team](https://l.xdsec.org/), the responsible person in 2021.4-2022.4 .
+- Organizations: a member of [XDSEC](https://www.xdsec.org/) ([**XDSEC@GitHub**](https://github.com/XDSEC)) / [L-team](https://l.xdsec.org/).
 
 - How to reach me: 
   - personal mail: [reverier.xu@outlook.com](mailto:reverier.xu@woooo.tech).
