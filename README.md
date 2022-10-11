@@ -29,6 +29,7 @@ if((                       i=( y            +=v=        getch(        )>0?I:v+
                         -=W; h=rand()%(LINES-H-6
                           )+2; } } flash(); }}
 
+// Sources: @MisterXopher in IOCCC 2015
 ```
 
 - What do i do: fullstack web developing, binary analysis, desktop app developing with Qt, DevSecOps.
