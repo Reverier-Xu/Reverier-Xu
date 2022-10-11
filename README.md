@@ -1,5 +1,5 @@
 ```shell
-cc -std=c11 -DU=99999 -DD=20 -DW=28 -DH=8 -DA=100 -DI=-200 -DB='"<o^="' -DF='"<ov="' -DG='"Tap to Flap!"' -O3 prog.c -o prog -lcurses
+cc -std=c11 -DU=99999 -DD=20 -DW=28 -DH=8 -DA=100 -DI=-200 -DB='"<o^="' -DF='"<ov="' -DG='"Tap to Flap!"' -O3 bird.c -o bird -lcurses
 ```
 
 ```c
