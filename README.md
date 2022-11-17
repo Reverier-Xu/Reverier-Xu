@@ -1,1 +1,1 @@
-Some idealistic developer.
+Someone idealistic developer.
