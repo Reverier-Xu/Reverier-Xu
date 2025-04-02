@@ -8,5 +8,5 @@ Post-graduate student from [XIDIAN University](https://www.xidian.edu.cn) | An
 
 Non-opensource Projects:
 
-1. [Ret2Shell(回归终端)](https://github.com/ret2shell), host on [西电 CTF 终端](https://ctf.xidian.edu.cn)
+1. [Ret2Shell (回归终端)](https://github.com/ret2shell), host on [西电 CTF 终端](https://ctf.xidian.edu.cn)
 2. [Regressor](#)
