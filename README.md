@@ -9,3 +9,5 @@ Developing something interesting.
 Non-opensource Projects:
 
 1. [Ret2Shell (回归终端)](https://github.com/ret2shell), the most wellknown instance is [西电 CTF 终端](https://ctf.xidian.edu.cn)
+
+> I'm not a designer, just a coder with OCD 🤣 although most stars of my projects are come from skins of some software.
