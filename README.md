@@ -6,8 +6,4 @@ Developing something interesting.
 2. I will try my best to solve issues in open source projects, but please **DO NOT** rush me or regard it as my obligation.
 3. My projects are currently all non-profit, some of them are not opensource. If you use my software, plz **DO NOT** ask me to opensource it, unless I violate some license.
 
-Non-opensource Projects:
-
-1. [Ret2Shell (回归终端)](https://github.com/ret2shell), the most wellknown instance is [西电 CTF 终端](https://ctf.xidian.edu.cn)
-
-> I'm not a designer, just a coder with OCD 😭 although most stars of my projects are come from skins of some software.
+Some of my projects can be found here: [Reverier's Digital Industries](https://www.woooo.tech/zh-cn/)
